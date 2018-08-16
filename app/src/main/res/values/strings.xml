@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SQLiteOperations</string>
+    <string name="username">SQLiteOperations</string>
+    <string name="password">SQLiteOperations</string>
+    <string name="view_data">VIEW DATA</string>
+    <string name="add_user">add User</string>
+    <string name="delete">DELETE</string>
+    <string name="update">UPDATE</string>
+</resources>
